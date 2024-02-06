@@ -1,0 +1,1 @@
+Explicación sobre Git.

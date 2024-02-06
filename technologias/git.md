@@ -1,0 +1,1 @@
+Git es un sistema de control de versiones distribuido diseñado para manejar proyectos grandes y pequeños con rapidez y eficiencia. Por ejemplo, para iniciar un nuevo repositorio de Git se utiliza el comando: git init

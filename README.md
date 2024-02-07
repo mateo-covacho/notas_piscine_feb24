@@ -15,7 +15,7 @@ Además  cada ver que alguien no entiende un concepto como los por ejemplo los [
 
 Además, también os será útil para tener un caso práctico en el que aprender a utilizar [[obisidan]]
 
-# Contribuir a tu parte 
+# Contribuir tu parte 
 
 He creado este repo y añadido notas básicas con fin de guiaros cómo empezar este proyecto y que vosotros a partir de aquí lo avancéis.
 
